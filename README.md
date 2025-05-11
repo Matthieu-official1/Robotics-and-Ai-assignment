@@ -2,6 +2,8 @@
 
 Welcome to my robotics project — a fully simulated mobile manipulation system built using **CoppeliaSim** and **MATLAB**. This project was developed for an academic assignment focused on autonomous perception, navigation, and object handling within a logistics-style environment.
 
+**FULL VIDEO** - https://youtu.be/KF71LPCsM4s
+
 ## 🎯 Objective
 
 The goal of this system was to simulate a complete robotic pipeline that could:
